@@ -46,7 +46,7 @@ I am focused on growing into a **professional Full Stack Developer** by contribu
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** www.linkedin.com/in/praful-pol-541533352 
+- **LinkedIn:** www.linkedin.com/in/praful-pol 
 - **GitHub:** https://github.com/iPraful-codes
 - **Email:** prafulpolp@gmail.com
 
