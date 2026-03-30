@@ -1,5 +1,5 @@
 <h1>Hi, I'm Praful 👋</h1>
-<h3>Data Analysis Student | Aspiring Full Stack Developer</h3>
+<h3>Data Analysis Student at UniMe | Aspiring Full Stack Developer</h3>
 
 ## 👨‍💻 About Me
 
@@ -11,7 +11,7 @@ I enjoy building practical applications that combine **clean user interfaces, ef
 - 💻 Aspiring Full Stack Developer  
 - 📊 Strong interest in Data + Web Development  
 - 🚀 Focused on building real, production-style projects  
-- 🤝 Open to internship opportunities  
+- 🤝 Open to internship opportunities and collaborative projects 
 
 ---
 
@@ -54,8 +54,7 @@ I am focused on growing into a **professional Full Stack Developer** by contribu
 
 ## ⚡ Mindset
 
-I believe in **consistent learning, building real projects, and improving step by step**.  
-Every project I work on is an opportunity to become a better developer.
+⭐ Turning ideas into projects, one step at a time.
 
 ---
 ⭐ **Thanks for visiting my profile**
