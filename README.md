@@ -15,26 +15,32 @@ I enjoy building practical applications that combine **clean user interfaces, ef
 
 ---
 
+## ⭐ Featured Project
+
+**[InternTrack](https://github.com/iPraful-codes/interntrack)** is a full-stack job application tracker built with Python, Flask, SQLite and vanilla JavaScript. It has a REST API, SQL analytics, automated tests and CI.
+
+[Live demo](https://interntrack-i52s.onrender.com) · [Source code](https://github.com/iPraful-codes/interntrack)
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,sqlite,mysql,git,github,vscode" />
 </p>
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend / Logic:** Python  
-- **Database:** SQL / MySQL  
-- **Tools:** Git, GitHub, VS Code  
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend / Logic:** Python, Flask
+- **Database:** SQL, SQLite, MySQL
+- **Tools:** Git, GitHub, GitHub Actions, VS Code 
 
 ---
 
 ## 🚀 Currently Working On
 
-- Building **full stack web applications**
-- Improving **JavaScript fundamentals and async concepts**
-- Strengthening **Python for backend and data handling**
-- Practicing **SQL queries and database design**
-- Writing cleaner, more maintainable code
+- Building full-stack projects with Python, Flask and SQL
+- Learning testing and deployment (pytest, GitHub Actions, Render)
+- Looking for a junior engineer or internship role in Europe or remote
 
 ---
 
@@ -46,9 +52,7 @@ I am focused on growing into a **professional Full Stack Developer** by contribu
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** www.linkedin.com/in/praful-pol 
-- **GitHub:** https://github.com/iPraful-codes
-- **Email:** prafulpolp@gmail.com
+- **LinkedIn:** www.linkedin.com/in/praful-pol
 
 ---
 
